@@ -15,6 +15,16 @@ A .NET console application that models airport ground operations across flights,
 - Seeded data for an immediate end-to-end demonstration
 - Friendly domain errors through a custom exception
 
+## Screenshots
+
+### Main menu
+
+![Meridian Ground Operations main menu](docs/screenshots/main-menu.png)
+
+### Boarding workflow
+
+![Passenger eligibility and completed boarding](docs/screenshots/boarding-workflow.png)
+
 ## Technology and design
 
 - C# and .NET 10
